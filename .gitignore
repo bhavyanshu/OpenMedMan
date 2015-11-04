@@ -2,3 +2,11 @@
 .env.*.php
 .env.php
 .env
+/vendor
+/node_modules
+Homestead.yaml
+composer.phar
+.DS_Store
+Thumbs.db
+.vagrant*
+/resources/views/emails

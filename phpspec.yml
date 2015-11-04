@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: OpenMedMan
+        psr4_prefix: OpenMedMan
+        src_path: app
